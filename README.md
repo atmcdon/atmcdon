@@ -1,7 +1,30 @@
-### Hi there 👋
+<h1>Hi, I'm Andrew! <br/><a href="https://github.com/atmcdon">Programmer</a>, <a href="https://www.linkedin.com/in/andrew-mcdonald-it/">Cybersecurity Professional</a>, <a>UWT College Student</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Randomized Adding and Subtracting(Game)</b>
+  - [Randomized Adding and Subtracting](https://github.com/atmcdon/ADHL)
+
+<h2>🛡️ Cyber Security Projects:</h2>
+
+- <b>Some Cyber Security Project (linex)</b>
+  - [Some Cyber Security Project](https://github.com/atmcdon/ADHL)
+
+
+
+<h2>📺 Youtube Explaination Videos</h2>
+
+- [Editing a desktop](Link-here)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Andrew McDonald | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/andrew-mcdonald-it/
 
 <!--
-**atmcdon/atmcdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
