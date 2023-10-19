@@ -25,7 +25,7 @@
 
 [linkedin]: https://www.linkedin.com/in/andrew-mcdonald-it/
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 Here are some ideas to get you started:
 
