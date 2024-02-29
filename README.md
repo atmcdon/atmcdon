@@ -15,7 +15,7 @@ Dive into my world of coding, networking, and cybersecurity. Below, you'll find 
 - **[Website312](https://github.com/atmcdon/Website312)** - A Movie Synopsis Project. 🖥️
 - **[Anki Website Web Scraper Maker](https://github.com/atmcdon/Anki-Website-Web-scraper-maker)** - Tool for making Anki flash cards. 🛠️
 
-#### Programming Fundamentals
+#### Programming Projects
 
 - **[TikTakToe](https://github.com/atmcdon/TikTakToe)** - The classic game of Tic Tac Toe. ❌⭕
 - **[Calculator](https://github.com/atmcdon/Calculator)** - A simple calculator application. 🧮
