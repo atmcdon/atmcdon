@@ -11,9 +11,9 @@ Dive into my world of coding, networking, and cybersecurity. Below, you'll find 
 
 #### Web Development Projects
 
-- **[Moon Website](https://github.com/atmcdon/Moon_Website)** - Explore the mysteries of the moon. 🌕
-- **[Website312](https://github.com/atmcdon/Website312)** - A project showcasing web development skills. 🖥️
-- **[Anki Website Web Scraper Maker](https://github.com/atmcdon/Anki-Website-Web-scraper-maker)** - Tool for creating web scrapers for Anki. 🛠️
+- **[Moon Website](https://github.com/atmcdon/Moon_Website)** - Website for client that has a boutique business. 🌕
+- **[Website312](https://github.com/atmcdon/Website312)** - A Movie Synopsis Project. 🖥️
+- **[Anki Website Web Scraper Maker](https://github.com/atmcdon/Anki-Website-Web-scraper-maker)** - Tool for making Anki flash cards. 🛠️
 
 #### Programming Fundamentals
 
@@ -24,7 +24,7 @@ Dive into my world of coding, networking, and cybersecurity. Below, you'll find 
 
 #### Data Management & Scripts
 
-- **[Student DataBase](https://github.com/atmcdon/Student-DataBase)** - Manage student information efficiently. 📖
+- **[Student DataBase](https://github.com/atmcdon/Student-DataBase)** - Manage student information efficiently with a .txt database. 📖
 - **[CISCO Command Script](https://github.com/atmcdon/CISCO-command-script)** - Automation scripts for Cisco commands. 🌐
 
 #### Simulation & Games
