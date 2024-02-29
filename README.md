@@ -7,7 +7,7 @@
 
 ### Welcome to My GitHub Projects! 🌟
 
-Dive into my world of coding and cybersecurity. Below, you'll find my projects categorized to showcase my diverse skill set and areas of interest. Stay tuned for future projects and ideas in development!
+Dive into my world of coding, networking, and cybersecurity. Below, you'll find my projects categorized to showcase my diverse skill set and areas of interest. Stay tuned for future projects and ideas in development!
 
 #### Web Development Projects
 
@@ -34,6 +34,10 @@ Dive into my world of coding and cybersecurity. Below, you'll find my projects c
 #### Professional Showcase
 
 - **[CV Resume](https://github.com/atmcdon/CV-Resume)** - A digital version of my professional resume. 📄
+
+#### Network Projects
+
+- **Packet Tracer Projects** - A collection of network simulations and configurations using Cisco Packet Tracer. This includes network design, troubleshooting, and protocol implementation projects that demonstrate my networking skills and understanding. 🌐🔧
 
 ### Future Projects 🚀
 
